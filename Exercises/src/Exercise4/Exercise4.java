@@ -6,6 +6,7 @@ public class Exercise4 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 		Scanner in = new Scanner (System.in);
 		
 		printQ1();
@@ -153,5 +154,4 @@ public class Exercise4 {
 				System.out.println(list1[i]);
 			}
 		}
-
 }
